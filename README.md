@@ -28,10 +28,6 @@ Currently freelance, actively looking to join a company as a full-time Data Anal
 
 **Methods:** EDA · Data Cleaning & Preparation · RFM/Churn/CAC/LTV Analysis · Statistical Analysis · Agile/Scrum
 
-## GitHub Stats
-
-![Ester's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ester-pinna&show_icons=true&theme=default)
-
 ## Activity Graph
 
 ![Ester's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ester-pinna&theme=github-compact)
