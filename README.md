@@ -30,9 +30,7 @@ Currently freelance, actively looking to join a company as a full-time Data Anal
 
 ## GitHub Stats
 
-![Ester's GitHub stats](https://github-readme-stats.vercel.app/api?username=ester-pinna&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ester-pinna&layout=compact&theme=default)
+![Ester's GitHub stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ester-pinna&show_icons=true&theme=default)
 
 ## Activity Graph
 
