@@ -17,6 +17,8 @@ Currently freelance, actively looking to join a company as a full-time Data Anal
 ## Projects
 
 - ✅ **[Winery E-commerce Analysis](https://github.com/ester-pinna/data-analyst-portfolio/tree/main/winery-ecommerce)**: Data cleaning and business-question-driven analysis (churn, RFM) on anonymized e-commerce data
+- ✅ **[Channel Performance Analysis](https://github.com/ester-pinna/data-analyst-portfolio/tree/main/channel-performance-analysis)**: Python data cleaning and transformation + Power BI analysis and dashboarding to quantify the economic impact of each acquisition channel and optimize marketing spend
+
 
 *More projects in progress — updated regularly.*
 
